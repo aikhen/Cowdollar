@@ -1,1 +1,0 @@
-python CowDollar.py -u EMAIL AGAN -p PASSWORD AGAN -s 60
